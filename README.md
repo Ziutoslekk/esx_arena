@@ -5,7 +5,7 @@ Paintball arena for [FiveM](https://fivem.net//)!
 - [Commands](#commands)
 - [Dependencies](#dependencies)
 
-# Commands
+## Commands
 - `/arena_host`, host the arena.
 - `/arena_exit`, exit the arena.
 
