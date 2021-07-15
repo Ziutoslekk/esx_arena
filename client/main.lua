@@ -306,7 +306,7 @@ AddEventHandler("arenas:cl:stop", function(bypassCleanUp)
 				DoScreenFadeOut(0)
 			end
 
-			BusySpinnerDisplay("Łączenie z główną sesją YOUR NAME")
+			BusySpinnerDisplay("Łączenie z główną sesją")
 
 			RequestCollisionAtCoord(hostpoint.x, hostpoint.y, hostpoint.z)
 			StartPlayerTeleport(PlayerId(), hostpoint, true, true, true)
